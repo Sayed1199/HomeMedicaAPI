@@ -1,0 +1,10 @@
+fastapi
+numpy
+Pillow
+pydantic
+uvicorn[standard]
+gunicorn
+tensorflow-cpu
+opencv-python-headless
+python-multipart
+scikit-learn
